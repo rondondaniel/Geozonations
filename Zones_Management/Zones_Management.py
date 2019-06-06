@@ -1,6 +1,6 @@
 import pandas as pd
 
-Folder="D:/DGMUser/Documents/1.-Societe/1.-Apps/4-Zone management/"
+Folder="D:/Documents/Zone management/"
 
 def dms2dd( dms ):  
     if dms.endswith("N"):
